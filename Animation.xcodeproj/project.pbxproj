@@ -15,6 +15,7 @@
 		1C7756822645BAE00069A5D9 /* gordon-basic-branching-tree.json in Resources */ = {isa = PBXBuildFile; fileRef = 1C7756802645BAE00069A5D9 /* gordon-basic-branching-tree.json */; };
 		1CAD3DE6265FDD14008BD859 /* LSColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CAD3DE5265FDD14008BD859 /* LSColor.swift */; };
 		1CAD3DE9265FDDD7008BD859 /* LeafSketch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CAD3DE8265FDDD7008BD859 /* LeafSketch.swift */; };
+		1CBC4A7A266560E600786369 /* Plant5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CBC4A79266560E600786369 /* Plant5.swift */; };
 		1CD6E06226633D2F00464B21 /* Plant1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD6E06126633D2F00464B21 /* Plant1.swift */; };
 		1CD6E06626633E8500464B21 /* Plant2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD6E06526633E8500464B21 /* Plant2.swift */; };
 		1CD6E06B2664652000464B21 /* Plant3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CD6E06A2664652000464B21 /* Plant3.swift */; };
@@ -76,6 +77,7 @@
 		1C7756802645BAE00069A5D9 /* gordon-basic-branching-tree.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "gordon-basic-branching-tree.json"; sourceTree = "<group>"; };
 		1CAD3DE5265FDD14008BD859 /* LSColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LSColor.swift; sourceTree = "<group>"; };
 		1CAD3DE8265FDDD7008BD859 /* LeafSketch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeafSketch.swift; sourceTree = "<group>"; };
+		1CBC4A79266560E600786369 /* Plant5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant5.swift; sourceTree = "<group>"; };
 		1CD6E06126633D2F00464B21 /* Plant1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant1.swift; sourceTree = "<group>"; };
 		1CD6E06526633E8500464B21 /* Plant2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant2.swift; sourceTree = "<group>"; };
 		1CD6E06A2664652000464B21 /* Plant3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant3.swift; sourceTree = "<group>"; };
@@ -171,6 +173,7 @@
 				1CD6E06526633E8500464B21 /* Plant2.swift */,
 				1CD6E06A2664652000464B21 /* Plant3.swift */,
 				1CD6E06E266468F800464B21 /* Plant4.swift */,
+				1CBC4A79266560E600786369 /* Plant5.swift */,
 			);
 			name = SystemCatalog;
 			sourceTree = "<group>";
@@ -544,6 +547,7 @@
 				1CD6E06F266468F800464B21 /* Plant4.swift in Sources */,
 				1CD6E06626633E8500464B21 /* Plant2.swift in Sources */,
 				819F9E6E26415FDC00C7883F /* LindenmayerSystemSketch.swift in Sources */,
+				1CBC4A7A266560E600786369 /* Plant5.swift in Sources */,
 				81064A0A1C130A10007ED524 /* AppDelegate.swift in Sources */,
 				1CD6E06B2664652000464B21 /* Plant3.swift in Sources */,
 				814ADAF5248EAB6A00F80486 /* TurtleSketch.swift in Sources */,
