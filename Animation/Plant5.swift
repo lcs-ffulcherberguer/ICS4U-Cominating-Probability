@@ -30,7 +30,7 @@ class Plant5: NSObject, Sketchable {
                                            rules: [
                                             "X" : [
                                                 Successor(odds: 1, text: """
-                                                                            FF[+XZ++X-F[+ZX]][-X++F-X]
+                                                                            FF[+XW++X-F[+WX]][-X++F-X]
                                                                             """),
                                                 
                                             ],
@@ -43,9 +43,9 @@ class Plant5: NSObject, Sketchable {
                                             
                                             ],
                                             
-                                            "Z" : [
+                                            "W" : [
                                                 Successor(odds: 1, text: """
-                                                                            2[+F-F+F][++ZX]
+                                                                            2[+F-F+F][++WX]
                                                                             """),
                                                 
                                             
